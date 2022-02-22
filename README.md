@@ -17,7 +17,7 @@ const Me = {
   code: [Javascript, Python, HTML, CSS, C, NodeJS, Java, Bash],
   tools: [React, Node, Bootsrap, Styled - Components, Matplotlib],
   more: {
-    curr_self_learning: ["Machine Learning", "Discrete Maths"],
+    curr_self_learning: ["Machine Learning", "Discrete Maths", "Shell Script"],
     curr_learning: ["Cloud Computing", "Ethical Hacking", "Artificial Intelligence"],
     software_known: ["Visual Studio", "Figma", "Adobe XD", "Android Studio"],
     certified_in: ["UI UX developer", "Ethical hacker],
