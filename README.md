@@ -13,17 +13,17 @@
 
 ```javascript
 const Me = {
-  pronouns: "he" | "him",
-  code: [Javascript, Python, HTML, CSS, C, NodeJS, Java, Bash],
-  tools: [React, Node, Bootsrap, Styled - Components, Matplotlib],
+  pronouns: "he | him",
+  code: [Javascript, Python, HTML, CSS, C, Java, Bash, C++, ],
+  others: [ReactJS, NodeJS, Bootsrap, Numpy],
   more: {
-    curr_self_learning: ["Machine Learning", "Discrete Maths", "Shell Script"],
+    curr_self_learning: ["Machine Learning", "Discrete Maths", "Shell Scripting"],
     curr_learning: ["Cloud Computing", "Ethical Hacking", "Artificial Intelligence"],
     software_known: ["Visual Studio", "Figma", "Adobe XD", "Android Studio"],
     certified_in: ["UI UX developer", "Ethical hacker],
   },
   challenge:
-    "I am doing the #100DaysOfCode challenge focused on react and javascript",
+    "I am doing the #100DaysOfCode challenge focused on algorithms and datastructures",
 };
 ```
 
