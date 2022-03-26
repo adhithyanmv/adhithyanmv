@@ -35,7 +35,7 @@ const Me = {
 <img src="https://www.codewars.com/users/adhithyanmv/badges/large"><br>
 </a>
 
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=adhithyan56995)](https://leetcode.com/adhithyan56995/)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=adhithyanmv)](https://leetcode.com/adhithyanmv/)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
