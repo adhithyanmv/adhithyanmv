@@ -31,7 +31,7 @@ const Me = {
 <br>
 <em><b>CodeWars & Leetcode &nbsp;  &nbsp;</b></em><br><br>
 
-<a href="https://www.codewars.com/users/adhithyan56995/">
+<a href="https://www.codewars.com/users/adhithyanmv/">
 <img src="https://www.codewars.com/users/adhithyan56995/badges/large"><br>
 </a>
 
