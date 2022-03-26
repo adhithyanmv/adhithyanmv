@@ -32,7 +32,7 @@ const Me = {
 <em><b>CodeWars & Leetcode &nbsp;  &nbsp;</b></em><br><br>
 
 <a href="https://www.codewars.com/users/adhithyanmv/">
-<img src="https://www.codewars.com/users/adhithyan56995/badges/large"><br>
+<img src="https://www.codewars.com/users/adhithyanmv/badges/large"><br>
 </a>
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=adhithyan56995)](https://leetcode.com/adhithyan56995/)
