@@ -15,8 +15,9 @@
 ```javascript
 const Me = {
   pronouns: "he | him",
-  code: [Javascript, Python, HTML, CSS, C, Java, Bash, C++, MySQL],
-  others: [ReactJS, NodeJS, Bootsrap, Numpy],
+  code: [Javascript, Python, HTML, CSS, C, Java, Bash, C++],
+  dbs: [MySQL, PostgreSQL],
+  others: [ReactJS, NodeJS, Bootsrap],
   more: {
     curr_self_learning: ["Machine Learning", "Discrete Maths", "Shell Scripting"],
     curr_learning: ["Cloud Computing", "Ethical Hacking", "Artificial Intelligence"],
