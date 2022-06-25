@@ -3,7 +3,7 @@
 
  <!-- one doesn't learn ds without implementing linked list and binary tree from scratch -->
 
-<p><em>First Year CS Student at <a href="https://vlbjcas.ac.in/">VLB Coimbatore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br><b>Forcing Myself To Learn Math For ML atm</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Second Year CS Student at <a href="https://vlbjcas.ac.in/">VLB Coimbatore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br><b>Forcing Myself To Learn Math For ML atm</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: adhi69420](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adhi69420)
