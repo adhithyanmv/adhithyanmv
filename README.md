@@ -15,12 +15,11 @@
 ```javascript
 const Me = {
   pronouns: "he | him",
-  code: [Javascript, Python, HTML, CSS, C, Java, Bash, C++],
-  dbs: [MySQL, PostgreSQL],
-  others: [ReactJS, NodeJS, Bootstrap, Django],
+  code: [Javascript, Python, HTML, CSS, C, Java, Bash, C++, PHP, C#],
+  dbs: [MySQL, PostgreSQL, MongoDB],
+  others: [ReactJS, NodeJS, Bootstrap, Django, React Native],
   more: {
-    curr_self_learning: ["Machine Learning", "Discrete Maths", "Shell Scripting"],
-    curr_learning: ["Cloud Computing", "Ethical Hacking", "Artificial Intelligence"],
+    curr_learning: ["Cloud Computing", "Machine Learning"],
     software_known: ["Visual Studio", "Figma", "Adobe XD", "Android Studio"],
     certified_in: ["UI UX developer", "Ethical hacker],
   },
